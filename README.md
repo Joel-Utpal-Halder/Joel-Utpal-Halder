@@ -26,5 +26,5 @@
 ---
 
 ## 📫 Connect with Me
-- [Portfolio Website](https://your-portfolio-link.com)  
+- [Portfolio Website](https://)  
 - [Email](mailto:your-ju.halder@gmail.com)
