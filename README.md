@@ -16,9 +16,9 @@
 ---
 
 ## 📂 Projects
-- 🌐 'Creative Agency' a Portfolio Website** – Showcasing my projects and skills
-- 🎮 Hancok – Responsive Gaming Website
-- 💻 Finsweet – Multipage Website of Web Development Service Providers
+- 🌐 'Creative Agency'- a Portfolio Website Showcasing my projects and skills
+- 🎮 'Hancok' – a Responsive Gaming Website
+- 💻 'Finsweet' – a Multipage Website of Web Development Service Providers
 
 ---
 
