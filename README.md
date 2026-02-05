@@ -18,7 +18,7 @@
 ## 📂 Projects
 - 🌐 'Creative Agency'- a Portfolio Website Showcasing my projects and skills
 - 🎮 'Hancok' – a Responsive Gaming Website
-- 💻 'Finsweet' – a Multipage Website of Web Development Service Providers
+- 💻 'Finsweet' – a Multipage Website of Web Development Service Providers designed from Figma
 
 ---
 
