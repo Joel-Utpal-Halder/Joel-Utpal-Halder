@@ -43,14 +43,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Visitor Count](https://komarev.com/ghpvc/?username=Joel-Utpal-Halder&color=blue&style=flat-square)
-![Utpal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoelUtpal&theme=tokyo-night)
+![Utpal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joel-Utpal-Halder&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joel-Utpal-Halder&theme=tokyonight)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Utpal-Halder&layout=compact&theme=tokyonight)
 
-## 📌 Featured Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JoelUtpal&repo=Creative-Agency&theme=tokyonight)](https://github.com/JoelUtpal/Creative-Agency)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JoelUtpal&repo=Hancok&theme=tokyonight)](https://github.com/JoelUtpal/Hancok)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JoelUtpal&repo=Finsweet&theme=tokyonight)](https://github.com/JoelUtpal/Finsweet)
 ---
 
 ## 📫 Connect with Me
