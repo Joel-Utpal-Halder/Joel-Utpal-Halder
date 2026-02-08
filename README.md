@@ -43,7 +43,8 @@
 ---
 
 ## 📊 GitHub Stats
-
+![Visitor Count](https://komarev.com/ghpvc/?username=JoelUtpal&color=blue&style=flat-square)
+![Utpal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoelUtpal&theme=tokyo-night)
 ---
 
 ## 📫 Connect with Me
