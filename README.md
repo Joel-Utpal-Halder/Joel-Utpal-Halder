@@ -23,14 +23,14 @@
 
 ### Backend Technologies  
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![ExpressJS](https://img.shields.io/badge/Express.js-1A98CB?style=for-the-badge&logo=express&logoColor=white)  
 
 ### Database  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ### Tools & Design  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)  
+![GitHub](https://img.shields.io/badge/GitHub-72331A?style=for-the-badge&logo=github&logoColor=black)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
 ---
@@ -43,10 +43,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Utpal's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelUtpal&show_icons=true&theme=tokyonight)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoelUtpal&theme=tokyonight)](https://git.io/streak-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelUtpal&layout=compact&theme=tokyonight)  
 
 ---
 
