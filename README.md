@@ -51,10 +51,21 @@
 ---
 
 ## 📫 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-087500?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-ju.halder@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Twitter](https://img.shields.io/badge/Twitter-6302C4?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
+
+<p align="center">
+  <a href="https://your-portfolio-link">
+    <img src="https://img.shields.io/badge/Portfolio-087500?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="mailto:your-ju.halder@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/your-handle">
+    <img src="https://img.shields.io/badge/Twitter-6302C4?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 ---
 
