@@ -44,16 +44,9 @@
 
 ## 📊 GitHub Stats
 
-![Utpal's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)](https://git.io/streak-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-
----
-
-## 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)  
-
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square)  
+![Utpal's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelUtpal&show_icons=true&theme=tokyonight)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoelUtpal&theme=tokyonight)](https://git.io/streak-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelUtpal&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -64,5 +57,3 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
 
 ---
-- [Portfolio Website](https://)  
-- [Email](mailto:your-ju.halder@gmail.com)
