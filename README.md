@@ -1,6 +1,6 @@
 # Hi, I'm Joel Utpal 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&width=435&lines=Aspiring+Full-Stack+Developer;MERN+Stack+Learner;UI%2FUX+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Aspiring+Full-Stack+Developer;MERN+Stack+Learner;UI%2FUX+Enthusiast)](https://git.io/typing-svg)
 
 🌱 Aspiring Full-Stack Developer | MERN Stack Learner  
 💻 Currently learning React, Tailwind CSS, Node.js, Express, MongoDB  
