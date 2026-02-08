@@ -46,6 +46,8 @@
 ![Utpal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joel-Utpal-Halder&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joel-Utpal-Halder&theme=tokyonight)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Utpal-Halder&layout=compact&theme=tokyonight)
+![Visitor Count](https://komarev.com/ghpvc/?username=Joel-Utpal-Halder&color=blue&style=flat-square)
+![Utpal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joel-Utpal-Halder&theme=tokyo-night)
 
 ---
 
