@@ -45,6 +45,12 @@
 ## 📊 GitHub Stats
 ![Visitor Count](https://komarev.com/ghpvc/?username=Joel-Utpal-Halder&color=blue&style=flat-square)
 ![Utpal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoelUtpal&theme=tokyo-night)
+
+## 📌 Featured Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JoelUtpal&repo=Creative-Agency&theme=tokyonight)](https://github.com/JoelUtpal/Creative-Agency)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JoelUtpal&repo=Hancok&theme=tokyonight)](https://github.com/JoelUtpal/Hancok)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JoelUtpal&repo=Finsweet&theme=tokyonight)](https://github.com/JoelUtpal/Finsweet)
 ---
 
 ## 📫 Connect with Me
