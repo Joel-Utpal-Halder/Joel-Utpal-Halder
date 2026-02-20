@@ -42,20 +42,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black) 
 ![Figma](https://img.shields.io/badge/Figma-842F78?style=for-the-badge&logo=figma&logoColor=white)  
 
----
-
-## 📂 Projects
-- 🌐 **Creative Agency** – Portfolio Website showcasing my projects and skills  
-- 🎮 **Hancok** – Responsive Gaming Website  
-- 💻 **Finsweet** – Multipage Website of Web Development Service Providers designed from Figma  
-
----
-
 ## 📊 GitHub Stats
 
 ![Utpal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joel-Utpal-Halder&theme=tokyo-night)
-
----
 
 ## 📫 Connect with Me
 
@@ -73,7 +62,3 @@
     <img src="https://img.shields.io/badge/Twitter-6302C4?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
-
----
-
-![divider](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer&animation=twinkling&text=✨+Thanks+for+visiting+my+profile!+✨&fontColor=ffffff&fontSize=25)
