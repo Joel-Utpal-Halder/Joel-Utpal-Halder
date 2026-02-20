@@ -1,11 +1,20 @@
 # Hi, I'm Joel Utpal 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Aspiring+Full-Stack+Developer;MERN+Stack+Learner;UI%2FUX+Enthusiast)](https://git.io/typing-svg)
+<p align="left">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" height="220"/>
+  <br/>
+  <small>Always Learning, Always Building 🚀</small>
+</p><br/>
 
-🌱 Aspiring Full-Stack Developer | MERN Stack Learner  
-💻 Currently learning React, Tailwind CSS, Node.js, Express, MongoDB  
-🎯 Goal: Build responsive, scalable web apps with great UI/UX  
-📍 Based in Dhaka, Bangladesh  
+<p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=435&lines=Aspiring+Full-Stack+Developer;MERN+Stack+Learner;UI%2FUX+Enthusiast" />
+</a><br/>
+  🌱 Aspiring Full-Stack Developer | MERN Stack Learner <br/>
+  💻 Currently learning React, Tailwind CSS, Node.js, Express, MongoDB <br/>
+  🎯 Goal: Build responsive, scalable web apps with great UI/UX <br/>
+  📍 Based in Dhaka, Bangladesh
+</p>
 
 ---
 
