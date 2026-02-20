@@ -44,8 +44,6 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joel-Utpal-Halder&theme=tokyonight)](https://git.io/streak-stats)  
-
 ![Utpal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joel-Utpal-Halder&theme=tokyo-night)
 
 ---
