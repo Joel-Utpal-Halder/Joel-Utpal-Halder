@@ -1,7 +1,7 @@
 # Hi, I'm Joel Utpal 👋
 
 <p align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" height="220"/>
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="50%" height="220"/>
   <br/>
   <small>Always Learning, Always Building 🚀</small>
 </p><br/>
