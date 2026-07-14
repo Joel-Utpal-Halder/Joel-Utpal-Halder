@@ -27,9 +27,6 @@
 | ⚙️ **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-1A98CB?style=for-the-badge&logo=express&logoColor=white) |
 | 🗄️ **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-7952B3?style=for-the-badge&logo=mongodb&logoColor=white) |
 | 🛠️ **Tools & Design** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-47A248?style=for-the-badge&logo=figma&logoColor=white) |
-## 📊 GitHub Stats
-
-![Utpal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joel-Utpal-Halder&theme=tokyo-night)
 
 ## 📫 Connect with Me
 
@@ -42,8 +39,5 @@
   </a>
   <a href="https://linkedin.com/in/your-link">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-6302C4?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
