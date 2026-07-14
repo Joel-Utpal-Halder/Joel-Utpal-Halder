@@ -32,10 +32,15 @@
 ## 📫 **Let's Connect!**
 
 <p align="left">
-  <a href="https://juverse.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://juverse.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<p align="left">
+  <small>↗️ Right-click to open links in new tab</small>
 </p>
