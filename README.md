@@ -8,12 +8,11 @@
 
 <p>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=435&lines=Aspiring+Full-Stack+Developer;MERN+Stack+Learner;UI%2FUX+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=435&lines=Aspiring+Full-Stack+Developer;UI%2FUX+Obsessed" />
 </a><br/>
-  🌱 Aspiring Full-Stack Developer | MERN Stack Learner <br/>
-  💻 Currently learning React, Tailwind CSS, Node.js, Express, MongoDB <br/>
-  🎯 Goal: Build responsive, scalable web apps with great UI/UX <br/>
-  📍 Based in Dhaka, Bangladesh
+  🎯 Currently Building scalable full-stack applications with modern tech stack<br/>
+  🎨 Passionate about creating seamless, pixel-perfect user experiences<br/>
+  🌍 Based in Dhaka, Bangladesh
 </p>
 
 ---
@@ -22,22 +21,27 @@
 
 | Category | Skills |
 |----------|--------|
-| 🌐 **Core Web Foundations** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
-| 🎨 **Frontend Frameworks** | ![React](https://img.shields.io/badge/React-02AAC4?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-2ECC71?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-842F78?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Motion](https://img.shields.io/badge/Motion-FF6F61?style=for-the-badge&logo=framer&logoColor=white) |
-| ⚙️ **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-1A98CB?style=for-the-badge&logo=express&logoColor=white) |
-| 🗄️ **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-7952B3?style=for-the-badge&logo=mongodb&logoColor=white) |
-| 🛠️ **Tools & Design** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-47A248?style=for-the-badge&logo=figma&logoColor=white) |
+| **🌐 Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+| **⚛️ Frameworks** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) |
+| **🎨 Styling** | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| **⚙️ Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) |
+| **🗄️ Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **🔧 ORM** | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) |
+| **🛠️ Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
-## 📫 Connect with Me
+## 📫 **Let's Connect!**
 
 <p align="center">
-  <a href="https://your-portfolio-link">
-    <img src="https://img.shields.io/badge/Portfolio-087500?style=for-the-badge&logo=firefox&logoColor=white" />
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:your-ju.halder@gmail.com">
+  <a href="mailto:ju.halder@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/your-twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
