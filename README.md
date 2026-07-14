@@ -31,14 +31,11 @@
 
 ## 📫 **Let's Connect!**
 
-<p align="center">
-  <a href="https://juverse.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7952B3?style=for-the-badge&logo=vercel&logoColor=white" />
+<p align="left">
+  <a href="https://juverse.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:ju.halder@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
